@@ -349,6 +349,11 @@ h6 { font-size: 16px;}
 	font-size: 14px;
 }
 
+.s2  p {
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
 
 #contact-form{
 	display: block;
